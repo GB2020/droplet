@@ -6,5 +6,5 @@
     "password":"youku.com",
     "timeout":300,
     "method":"aes-256-cfb",
-    "log_file": /dev/null
+    "log_file": "/dev/null"
 }
